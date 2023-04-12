@@ -16,7 +16,7 @@ Features
 Prerequisites
 -------------
 
-Before you start using this project, make sure you have GPG installed on your system. If you don't have it installed, you can follow the instructions [here](https://gnupg.org/download/) to install it.
+Before you start using this project, make sure you have GPG installed on your system. See [How to install GPG](install_GPG.md#installing-gpg)
 
 Installation
 ------------
