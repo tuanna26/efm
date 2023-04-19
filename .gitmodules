@@ -1,3 +1,6 @@
 [submodule "secure"]
 	path = secure
 	url = git@tuanna:tuanna26/secure_files.git
+[submodule "secures"]
+	path = secures
+	url = git@tuanna:tuanna26/secure_files.git
